@@ -6,4 +6,4 @@ Change Alice again.
 
 for testing merge!
 
-change Alice file to test rebase
+change Alice file to test rebase!
